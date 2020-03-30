@@ -1,0 +1,3 @@
+Szpader|Wojtek|24|76
+Sokół|Wojteke|42|68
+Kaskader|Mateusz|33|63
